@@ -15,10 +15,11 @@
 	border-radius: 50%;
 	width: 20em;
 	height: 20em;
-	background-image: -moz-radial-gradient(45px 45px 45deg, circle cover, white 0%, #4545ED 100%, red 95%);
-	background-image: -webkit-radial-gradient(45px 45px, circle cover, white, #4545ED);
-	background-image: -o-radial-gradient(45px 45px, circle cover, white, #4545ED);
-	background-image: radial-gradient(45px 45px 45deg, circle cover, white 0%, #4545ED 100%, red 95%);
+	background-image: -moz-radial-gradient(5em 5em, circle cover, white, #8080FF 70%);
+	background-image: -webkit-radial-gradient(5em 5em, circle cover, white, #8080FF 70%);
+	background-image: -o-radial-gradient(5em 5em, circle cover, white, #8080FF 70%);
+	background-image: -ms-radial-gradient(5em 5em, circle cover, white, #8080FF 70%);
+	background-image: radial-gradient(5em 5em, circle cover, white, #8080FF 70%);
 }
 
 #triangle{
